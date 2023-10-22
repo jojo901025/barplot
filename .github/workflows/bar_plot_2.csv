@@ -1,0 +1,13 @@
+scenario,name,number
+1,model 2,1
+2,model 2,0.937
+3,model 2,0.047
+4,model 2,0.059
+1,model 4,1
+2,model 4,0.05
+3,model 4,0.931
+4,model 4,0.052
+1,sequential,1
+2,sequential,0.05
+3,sequential,0.047
+4,sequential,0.004

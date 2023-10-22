@@ -1,0 +1,13 @@
+scenario,name,number
+1,standard,1
+2,standard,0.931
+3,standard,0.035
+4,standard,0.035
+1,modified,1
+2,modified,0.035
+3,modified,0.001
+4,modified,0.045
+1,two-step,1
+2,two-step,0.035
+3,two-step,0.015
+4,two-step,0.027
